@@ -1,17 +1,24 @@
-# Ignore compiled binaries
+# Compiled files
 bin/
 obj/
-
-# Ignore temporary files
-*.tmp
 *.o
 *.out
+*.exe
 
-# Ignore system files
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Log files
+*.log
+logs/
+
+# System files
 .DS_Store
 Thumbs.db
 
-# Ignore large data files
-*.txt
-output/
-temp/
+# IDE files
+.vscode/
+.idea/
+*.code-workspace

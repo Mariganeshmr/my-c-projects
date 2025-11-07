@@ -35,8 +35,11 @@ while true; do
             echo "Goodbye!"
             exit 0
             ;;
-        *)
+        6)
             echo "Invalid option!"
+            ;;
+        7)
+            echo "Running String Operations..."
             ;;
     esac
     
