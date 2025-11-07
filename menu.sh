@@ -40,7 +40,16 @@ while true; do
             ;;
         7)
             echo "Running String Operations..."
-            ;;
+            ./bin/string_operations
+            ;; 
+8)
+    echo "Running Scientific Calculator..."
+    ./bin/scientific_calculator
+    ;;
+9)
+    echo "Running Automated Build..."
+    ./auto_build.sh
+    ;;
     esac
     
     echo -n "Press Enter to continue..."
