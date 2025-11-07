@@ -1,23 +1,22 @@
 # My C Projects Collection
 
-A collection of C programs for learning and practice.
+A collection of C programs for learning and practice, licensed under GPL v3.
 
-## Programs Available:
+## Author
+**Mariganesham**  
+- GitHub: [Mariganesham](https://github.com/Mariganesham)  
+- Email: your-email@example.com
 
-- **number_printer** - Prints numbers 1-400
-- **enhanced_printer** - Advanced number printing with options
-- **fibonacci** - Generates Fibonacci sequences
+## License
+This project is licensed under the **GNU General Public License v3.0** - see the [LICENSE](LICENSE) file for details.
 
-## How to Use:
+## Programs:
+- Number Printer (1-400)
+- Enhanced Number Printer with options
+- Fibonacci Generator
+- Simple Calculator
 
-1. Build all programs: `./build.sh`
-2. Run the menu: `./menu.sh`
-3. Or run individually: `./bin/program_name`
-
-## Requirements:
-
-- Termux with clang compiler
-- Basic C knowledge
-
-## Author:
-Your Name
+## How to Run:
+```bash
+./build.sh
+./menu.sh
