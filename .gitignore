@@ -1,0 +1,17 @@
+# Ignore compiled binaries
+bin/
+obj/
+
+# Ignore temporary files
+*.tmp
+*.o
+*.out
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore large data files
+*.txt
+output/
+temp/
