@@ -5,7 +5,7 @@ A collection of C programs for learning and practice, licensed under GPL v3.
 ## Author
 **Mariganesham**  
 - GitHub: [Mariganesham](https://github.com/Mariganesham)  
-- Email: your-email@example.com
+- Email: mariganesh.bme@gmail.com
 
 ## License
 This project is licensed under the **GNU General Public License v3.0** - see the [LICENSE](LICENSE) file for details.
